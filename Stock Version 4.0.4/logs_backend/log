@@ -1,0 +1,11 @@
+2025-12-02T03:09:52.064Z - info - dbPath: C:\Users\Public\TofuTech\stock_serial_io_app\stock-serial-io-app\dist\electron\Packaged\Stock Version 4.0.4\stock-serial-io.db
+2025-12-02T03:09:52.791Z - info - New IO setting created:
+2025-12-02T03:09:52.797Z - info - New IO setting created:
+2025-12-02T03:09:52.805Z - info - New IO setting created:
+2025-12-02T03:09:52.820Z - info - New IO setting created:
+2025-12-02T03:09:52.827Z - info - New comport created:
+2025-12-02T03:09:52.839Z - info - New comport created:
+2025-12-02T03:09:52.845Z - info - Attempting to open port: COM13...
+2025-12-02T03:09:52.847Z - error - [ERROR on COM13]: Opening COM13: Access denied
+2025-12-02T03:09:52.847Z - info - Attempting to open port: COM11...
+2025-12-02T03:09:52.848Z - error - [ERROR on COM11]: Opening COM11: File not found
